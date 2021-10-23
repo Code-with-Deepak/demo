@@ -1,0 +1,27 @@
+{
+    "movie1":
+    {
+        "name":"dark",
+        "release":"2020",
+        "rating":8.5
+    },
+
+    "movie2":
+    {
+        "name":"pycho",
+        "release":"1992",
+        "rating":7.2
+    },
+    "movie3":
+    {
+        "name":"howl",
+        "release":"2021",
+        "rating":9
+    },
+    "movie4":
+    {
+        "name":"crew",
+        "release":"2011",
+        "rating":9.5
+    }
+}
